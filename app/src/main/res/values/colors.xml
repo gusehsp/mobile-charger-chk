@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_dark">#0F1E54</color>
+    <color name="navy_primary">#1428A0</color>
+    <color name="blue_accent">#2563EB</color>
+    <color name="bg_light">#F4F6FA</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="stage_idle">#64748B</color>
+    <color name="stage_normal">#64748B</color>
+    <color name="stage_fast">#0284C7</color>
+    <color name="stage_super">#059669</color>
+    <color name="stage_super2">#2563EB</color>
+    <color name="stage_super3">#7C3AED</color>
+</resources>
